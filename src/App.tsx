@@ -81,32 +81,3 @@ export const App = () => {
 
 
 
-// export const Footer = () => {
-//   return (
-//     <div style={footerStyles}>
-//       <div style={footerOptionsStyles}>
-//         <div onClick={ChangeShape} style={optionsStyles}  >
-//           <p>C: Shape</p>
-//         </div>
-//         <div onClick={ChangeSize} style={optionsStyles}>
-//           <p>C: Size</p>
-//         </div>
-//         <div onClick={ChangeColor} style={optionsStyles}>
-//           <p>C: Color</p>
-//         </div>
-//         <div  onClick={AddLabel} style={optionsStyles}>
-//           <p>Add Label</p>
-//         </div>
-//         <div onClick={DuplicateShape} style={optionsStyles}>
-//           <p>Duplicate</p>
-//         </div>
-//         <div onClick={Reset} style={optionsStyles}>
-//           <p>Reset</p>
-//         </div>
-//       </div>
-//     </div>
-//   );
-// };
-
-
-
